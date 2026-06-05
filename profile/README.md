@@ -19,11 +19,6 @@ Built for our own streams — open to everyone: **[streamkit.neonvoid.com](https
 | [MultiTube](https://multitube.app/) | Watch multiple Twitch streams at once |
 | [max4.live](https://max4.live/) | Fuzzy search across 14,000+ Max for Live devices for Ableton Live |
 
-## Open source
-
-- [c64-terminal-new](https://github.com/neon-void/c64-terminal-new) — C64 terminal server (NestJS/TypeScript)
-- [infinitescroller](https://github.com/neon-void/infinitescroller) — infinite scroller overlay
-
 ---
 
 Engineering by [SquidCode](https://squidcode.com/).
